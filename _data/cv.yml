@@ -28,11 +28,11 @@
       institution: University of Nebraska Omaha
       period: Jan. 2026 - Present
       description: 
-        - [cite_start]Developing AI-driven post-processing modules for scientific lossy compressors (SZ3, STZ). [cite: 112]
-        - [cite_start]Integrating ML correction kernels into HPC data pipelines like Nyx and AMREX. [cite: 113]
+        - Developing AI-driven post-processing modules for scientific lossy compressors (SZ3, STZ).
+        - Integrating ML correction kernels into HPC data pipelines like Nyx and AMREX.
     - title: Graduate Researcher (GRAND Collaboration)
       institution: SFSU / GRAND
       period: Sept. 2023 - Dec. 2025
       description:
-        - [cite_start]Built a deep convolutional denoiser for antenna traces, achieving 15-23 dB SNR gain. [cite: 118, 120]
-        - [cite_start]Achieved 10x lower normalized waveform MSE vs. baseline denoiser. [cite: 120]
+        - Built a deep convolutional denoiser for antenna traces, achieving 15-23 dB SNR gain.
+        - Achieved 10x lower normalized waveform MSE vs. baseline denoiser.
