@@ -9,12 +9,12 @@ last_name: Lai
 contact_note: >
   The best way to reach me is via email at zhisenlai [at] unomaha.edu.
 description: >
-  PhD Student in Computing & Information Science @ University of Nebraska Omaha. [cite: 99] 
-  Interested in AI-enhanced scientific compression and Physics-informed Machine Learning. [cite: 95, 96]
+  PhD Student in Computing & Information Science @ University of Nebraska Omaha.
+  Interested in AI-enhanced scientific compression and Physics-informed Machine Learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-[cite_start]keywords: AI, HPC, Scientific Compression, Machine Learning, Astrophysics [cite: 95, 96]
+keywords: AI, HPC, Scientific Compression, Machine Learning, Astrophysics
 lang: en 
 icon: ⚛️ 
 
@@ -24,15 +24,13 @@ last_updated: true
 back_to_top: true 
 
 # -----------------------------------------------------------------------------
-# Social Media Links (填入你的 ID 后，图标会自动出现在页面上)
+# Social Media Links
 # -----------------------------------------------------------------------------
 
-[cite_start]email: zhisenlai@unomaha.edu [cite: 93]
-[cite_start]scholar_userid: rwdaufcAAAAJ [cite: 93]
+email: zhisenlai@unomaha.edu
+scholar_userid: rwdaufcAAAAJ
 github_username: SamLai0509 
-[cite_start]linkedin_username: zhisenlai [cite: 93]
-# orcid_id: 0000-0000-0000-0000
-# twitter_username: 
+linkedin_username: zhisenlai
 
 # -----------------------------------------------------------------------------
 # Theme & Layout
@@ -53,17 +51,7 @@ bib_search: true
 max_width: 930px
 
 # -----------------------------------------------------------------------------
-# Blog Settings
-# -----------------------------------------------------------------------------
-
-blog_name: Research Notes
-blog_description: Thoughts on AI for Science and Data Reduction.
-permalink: /blog/:year/:title/
-pagination:
-  enabled: true
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar (决定文献中你的名字是否加粗)
+# Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
@@ -83,30 +71,22 @@ scholar:
   group_order: descending
 
 # -----------------------------------------------------------------------------
-# Optional Features (已根据你的要求开启)
+# Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_scholar: true # 开启引用统计
-enable_darkmode: true # 开启深色模式切换
-enable_navbar_social: true # 导航栏显示社交图标
-enable_progressbar: true # 页面顶部阅读进度条
-enable_math: true # 开启 LaTeX 数学公式支持
-enable_masonry: true # 开启项目卡片瀑布流布局
-enable_medium_zoom: true # 开启图片点击放大
-
-# -----------------------------------------------------------------------------
-# Publication Badges
-# -----------------------------------------------------------------------------
+enable_google_scholar: true 
+enable_darkmode: true 
+enable_navbar_social: true 
+enable_progressbar: true 
+enable_math: true
+enable_masonry: true
+enable_medium_zoom: true
 
 enable_publication_badges:
   altmetric: true 
   dimensions: true 
   google_scholar: true 
   inspirehep: true 
-
-# -----------------------------------------------------------------------------
-# Includes & Excludes (不要随意修改，除非你知道你在做什么)
-# -----------------------------------------------------------------------------
 
 include: ["_pages", "_scripts"]
 exclude:
@@ -122,14 +102,6 @@ exclude:
   - README.md
   - vendor
 
-keep_files:
-  - CNAME
-  - .nojekyll
-
-# -----------------------------------------------------------------------------
-# Plug-ins
-# -----------------------------------------------------------------------------
-
 plugins:
   - jekyll-3rd-party-libraries
   - jekyll-archives-v2
@@ -141,24 +113,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-socials
-  - jekyll-toc
   - jemoji
-
-# -----------------------------------------------------------------------------
-# Imagemagick (用于处理响应式图片)
-# -----------------------------------------------------------------------------
-
-imagemagick:
-  enabled: true 
-  widths: [480, 800, 1400]
-  input_directories: ["assets/img/"]
-  input_formats: [".jpg", ".jpeg", ".png", ".tiff", ".gif"]
-  output_formats:
-    webp: "-auto-orient -quality 85"
-
-# -----------------------------------------------------------------------------
-# Resume Data Mapping
-# -----------------------------------------------------------------------------
 
 jekyll_get_json:
   - data: resume
