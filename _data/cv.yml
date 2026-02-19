@@ -33,3 +33,37 @@
       description:
         - [cite_start]Built a deep convolutional denoiser for antenna traces, achieving 15-23 dB SNR gain. [cite: 118, 120]
         - [cite_start]Achieved 10x lower normalized waveform MSE vs. baseline. [cite: 120]
+
+- title: Invited Talks & Presentations
+  type: time_table
+  contents:
+    - title: "Denoising Radio Pulses from Air Shower Using Machine Learning Method"
+      institution: Workshop on Machine Learning for Analysis of High-Energy Cosmic Particles, University of Delaware
+      period: Jan. 2025
+      description: 
+        - [cite_start]Presented an unsupervised autoencoder model for denoising simulated radio signals from ultra-high-energy cosmic particles [cite: 158-161].
+        - [cite_start]Demonstrated sensitivity gains from applying the denoising algorithm to noisy GRAND signals[cite: 162].
+    - title: "Using ResNet Autoencoder Model to reconstruct Voltage Signal From AirShower"
+      institution: GRAND Collaboration Workshop, Nanjing, China
+      period: June 2024
+      description:
+        - [cite_start]Introduced a ResNet Autoencoder model to reconstruct voltage signals and denoise noisy airshower data [cite: 164-166].
+        - [cite_start]Presented results showing effective denoising for high SNR signals[cite: 167].
+
+- title: Service & Leadership
+  type: time_table
+  contents:
+    - title: Organizer for "No Jargon Talk"
+      institution: Santa Cruz, CA, USA
+      period: June 2024
+      description:
+        - [cite_start]Organized discussions focused on jargon-free communication within the field of physics [cite: 168-170].
+        - [cite_start]Shared techniques for audience-specific scientific writing and collaborated on social media content[cite: 173].
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - title: Kazuko Walson Scholarship
+      institution: San Francisco State University
+      period: 2023, 2024
+      [cite_start]description: Financial support awarded to graduate students for excellence in teaching Physics and Astronomy laboratories [cite: 191-194].
