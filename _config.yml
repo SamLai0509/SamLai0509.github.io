@@ -1,129 +1,27 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
-
 title: Zhisen Lai | PhD Researcher
 first_name: Zhisen
-middle_name: 
 last_name: Lai
-contact_note: >
-  The best way to reach me is via email at zhisenlai [at] unomaha.edu.
 description: >
   PhD Student in Computing & Information Science @ University of Nebraska Omaha.
   Interested in AI-enhanced scientific compression and Physics-informed Machine Learning.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: AI, HPC, Scientific Compression, Machine Learning, Astrophysics
-lang: en 
-icon: ⚛️ 
-
 url: https://SamLai0509.github.io 
 baseurl: ""
-last_updated: true
-back_to_top: true 
-
-# -----------------------------------------------------------------------------
-# Social Media Links
-# -----------------------------------------------------------------------------
-
-email: zhisenlai@unomaha.edu
-scholar_userid: rwdaufcAAAAJ
-github_username: SamLai0509 
-linkedin_username: zhisenlai
-
-# -----------------------------------------------------------------------------
-# Theme & Layout
-# -----------------------------------------------------------------------------
-
-repo_theme_light: default 
-repo_theme_dark: dark 
-repo_trophies:
-  enabled: true
-  theme_light: flat 
-  theme_dark: gitdimmed 
-
-navbar_fixed: true
-footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
-max_width: 930px
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
 
 scholar:
   last_name: [Lai]
   first_name: [Zhisen, Z.]
   style: apa
-  locale: en
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
-  bibtex_filters: [latex, smallcaps, superscript]
-  replace_strings: true
-  join_strings: true
-  details_dir: bibliography
-  query: "@*"
-  group_by: year
-  group_order: descending
-
-# -----------------------------------------------------------------------------
-# Optional Features
-# -----------------------------------------------------------------------------
 
 enable_google_scholar: true 
 enable_darkmode: true 
 enable_navbar_social: true 
-enable_progressbar: true 
-enable_math: true
-enable_masonry: true
-enable_medium_zoom: true
-
-enable_publication_badges:
-  altmetric: true 
-  dimensions: true 
-  google_scholar: true 
-  inspirehep: true 
 
 include: ["_pages", "_scripts"]
-exclude:
-  - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - FAQ.md
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - vendor
-
 plugins:
-  - jekyll-3rd-party-libraries
-  - jekyll-archives-v2
   - jekyll-feed
   - jekyll-imagemagick
   - jekyll-link-attributes
-  - jekyll-minifier
-  - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-socials
-  - jemoji
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json 
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - awards
-  - skills
