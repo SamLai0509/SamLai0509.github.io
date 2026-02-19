@@ -12,11 +12,11 @@
     - title: PhD in Computing & Information Science
       institution: University of Nebraska Omaha, Omaha, NE
       period: Jan. 2026 - Present
-      description: Cumulative GPA: 3.81/4.00
+      description: "Cumulative GPA: 3.81/4.00"
     - title: MS in Astronomy and Astrophysics
       institution: San Francisco State University, San Francisco, CA
       period: Sept. 2023 - Dec. 2025
-      description: Cumulative GPA: 3.15/4.00
+      description: "Cumulative GPA: 3.15/4.00"
     - title: BS in Physics (Astrophysics)
       institution: University of California, Santa Cruz, Santa Cruz, CA
       period: Sept. 2019 - Mar. 2023
@@ -35,4 +35,4 @@
       period: Sept. 2023 - Dec. 2025
       description:
         - [cite_start]Built a deep convolutional denoiser for antenna traces, achieving 15-23 dB SNR gain. [cite: 118, 120]
-        - [cite_start]Achieved 10x lower normalized waveform MSE vs. baseline. [cite: 120]
+        - [cite_start]Achieved 10x lower normalized waveform MSE vs. baseline denoiser. [cite: 120]
