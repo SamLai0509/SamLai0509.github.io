@@ -16,6 +16,6 @@ selected_papers: true
 social: true
 ---
 
-I am a PhD student in Computing & Information Science at the University of Nebraska Omaha. My research focuses on developing **AI-enhanced scientific compression** and **ROI-aware data reduction** frameworks to optimize storage and reconstruction for large-scale HPC simulations.
+[cite_start]I am a PhD student in Computing & Information Science at the University of Nebraska Omaha[cite: 99]. [cite_start]My research focuses on developing **AI-enhanced scientific compression** and **ROI-aware data reduction** frameworks to optimize storage and reconstruction for large-scale HPC simulations[cite: 95].
 
-I am also dedicated to advancing **physics-informed machine learning** architectures to improve the denoising and detection of ultra-high-energy particles. During my time with the **GRAND experiment**, I built a deep convolutional denoiser for antenna traces that achieved a median output-SNR gain of **15-23 dB**.
+[cite_start]I am also dedicated to advancing **physics-informed machine learning** architectures to improve the denoising and detection of ultra-high-energy particles[cite: 96]. [cite_start]During my time with the **GRAND experiment**, I built a deep convolutional denoiser for antenna traces that achieved a median output-SNR gain of **15-23 dB**[cite: 118, 120].
