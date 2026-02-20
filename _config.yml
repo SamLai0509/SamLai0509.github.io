@@ -74,6 +74,13 @@ exclude:
 # Plugins
 # -----------------------------------------------------------------------------
 plugins:
+    
+    # -----------------------------------------------------------------------------
+    # Third-party libraries
+    # -----------------------------------------------------------------------------
+    third_party_libraries:
+      node_modules_load: false
+    
   - jekyll-3rd-party-libraries
   - jekyll-archives
   - jekyll-feed
@@ -82,7 +89,14 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-scholar
-  - jekyll-sitemap
+  - jekyll-sitemap# ------------------------------------------------  node_modules_load: false
+  # third_party_libraries:
+  -----------------------------------------------------------------------------
+  # Third-party libraries
+  -----------------------------
+  
+
+
   - jekyll-socials
   - jemoji
 
