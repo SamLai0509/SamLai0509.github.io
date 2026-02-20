@@ -1,5 +1,18 @@
-linkedin_username: zhisenlai
-github_username: SamLai0509
-google_scholar_id: rwdaufcAAAAJ
-# 你可以在这里加入 email
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+
 email: zhisenlai@unomaha.edu
+scholar_userid: rwdaufcAAAAJ
+github_username: SamLai0509
+linkedin_username: zhisenlai
+
+# ⚠️ 注意：如果你没有自己的简历PDF或者自定义的网站，请务必保持下面的行带有 '#' 注释号，或者直接把它们删掉。
+# 否则就会出现之前的 undefined method `split' for nil 报错！
+
+# cv_pdf: /assets/pdf/example_pdf.pdf 
+# rss_icon: true 
+
+# custom_social: 
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png 
+#   title: Custom Social
+#   url: https://www.alberteinstein.com/
