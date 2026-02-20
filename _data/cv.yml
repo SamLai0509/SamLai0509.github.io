@@ -1,39 +1,39 @@
 cv:
-      - title: General Information
-        type: map
-        contents:
-          - name: Full Name
-            value: Zhisen Lai
-          - name: Languages
-            value: English, Chinese
-    
-      - title: Education
-        type: time_table
-        contents:
-          - title: PhD in Computing & Information Science
-            institution: University of Nebraska Omaha, Omaha, NE
-            period: Jan. 2026 - Present
-            description: "Cumulative GPA: 3.81/4.00"
-          - title: MS in Astronomy and Astrophysics
-            institution: San Francisco State University, San Francisco, CA
-            period: Sept. 2023 - Dec. 2025
-            description: "Cumulative GPA: 3.15/4.00"
-          - title: BS in Physics (Astrophysics)
-            institution: University of California, Santa Cruz, Santa Cruz, CA
-            period: Sept. 2019 - Mar. 2023
-    
-      - title: Research Experience
-        type: time_table
-        contents:
-          - title: Graduate Researcher
-            institution: University of Nebraska Omaha
-            period: Jan. 2026 - Present
-            description:
-              - Developing AI-driven post-processing modules for scientific lossy compressors (SZ3, STZ).
-              - Integrating ML correction kernels into HPC data pipelines like Nyx and AMREX.
-          - title: Graduate Researcher (GRAND Collaboration)
-            institution: SFSU / GRAND
-            period: Sept. 2023 - Dec. 2025
-            description:
-              - Built a deep convolutional denoiser for antenna traces, achieving 15-23 dB SNR gain.
-              - Achieved 10x lower normalized waveform MSE vs. baseline denoiser.
+  - title: General Information
+    type: map
+    contents:
+      - name: Full Name
+        value: Zhisen Lai
+      - name: Languages
+        value: English, Chinese
+
+  - title: Education
+    type: time_table
+    contents:
+      - title: PhD in Computing & Information Science
+        institution: University of Nebraska Omaha, Omaha, NE
+        period: Jan. 2026 - Present
+        description: "Cumulative GPA: 3.81/4.00"
+      - title: MS in Astronomy and Astrophysics
+        institution: San Francisco State University, San Francisco, CA
+        period: Sept. 2023 - Dec. 2025
+        description: "Cumulative GPA: 3.15/4.00"
+      - title: BS in Physics (Astrophysics)
+        institution: University of California, Santa Cruz, Santa Cruz, CA
+        period: Sept. 2019 - Mar. 2023
+
+  - title: Research Experience
+    type: time_table
+    contents:
+      - title: Graduate Researcher
+        institution: University of Nebraska Omaha
+        period: Jan. 2026 - Present
+        description:
+          - Developing AI-driven post-processing modules for scientific lossy compressors (SZ3, STZ).
+          - Integrating ML correction kernels into HPC data pipelines like Nyx and AMREX.
+      - title: Graduate Researcher (GRAND Collaboration)
+        institution: SFSU / GRAND
+        period: Sept. 2023 - Dec. 2025
+        description:
+          - Built a deep convolutional denoiser for antenna traces, achieving 15-23 dB SNR gain.
+          - Achieved 10x lower normalized waveform MSE vs. baseline denoiser.
