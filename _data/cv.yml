@@ -27,7 +27,7 @@
     - title: Graduate Researcher
       institution: University of Nebraska Omaha
       period: Jan. 2026 - Present
-      description: 
+      description:
         - Developing AI-driven post-processing modules for scientific lossy compressors (SZ3, STZ).
         - Integrating ML correction kernels into HPC data pipelines like Nyx and AMREX.
     - title: Graduate Researcher (GRAND Collaboration)
@@ -36,5 +36,3 @@
       description:
         - Built a deep convolutional denoiser for antenna traces, achieving 15-23 dB SNR gain.
         - Achieved 10x lower normalized waveform MSE vs. baseline denoiser.
-
-        
