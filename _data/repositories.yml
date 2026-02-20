@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - SamLai0509
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - SamLai0509/Scientfic_Data_Compression
+  - grand-mother/ML_denoising/tree/raytune_lib_final
+  - SamLai0509/Anomalous_supernovae_detection
+
