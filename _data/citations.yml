@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-13'
 papers:
   rwdaufcAAAAJ:0EnyYjriUFMC:
-    citations: 1
+    citations: 2
     title: The New Status Qvo? SN 2021qvo Is Another 2003fg-like Type Ia Supernova with a Rising Light-curve Bump
     year: '2026'
   rwdaufcAAAAJ:5nxA0vEk-isC:
@@ -14,7 +14,7 @@ papers:
     title: 'Towards the Giant Radio Array for Neutrino Detection (GRAND): the GRANDProto300 and GRAND@ Auger prototypes'
     year: '2025'
   rwdaufcAAAAJ:LkGwnXOMwfcC:
-    citations: 45
+    citations: 47
     title: The Circumstellar Environments of Double-peaked, Calcium-strong Transients 2021gno and 2021inl
     year: '2022'
   rwdaufcAAAAJ:MXK_kJrjxJIC:
