@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-24'
 papers:
   rwdaufcAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: The New Status Qvo? SN 2021qvo is Another 2003fg-like Type Ia Supernova with a Rising Light-Curve Bump
     year: '2025'
   rwdaufcAAAAJ:8k81kl-MbHgC:
-    citations: 0
+    citations: 1
     title: 'Towards the Giant Radio Array for Neutrino Detection (GRAND): the GRANDProto300 and GRAND@ Auger prototypes'
     year: '2025'
   rwdaufcAAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: Deep-Learning Denoising of Radio Observations for Ultra-High-Energy Cosmic-Ray Detection
     year: '2026'
   rwdaufcAAAAJ:Se3iqnhoufwC:
-    citations: 3
+    citations: 4
     title: Denoising radio pulses from air showers using machine-learning methods
     year: '2025'
   rwdaufcAAAAJ:UebtZRa9Y70C:
@@ -34,7 +34,7 @@ papers:
     title: 'Supernova 2020wnt: An Atypical Superluminous Supernova with a Hidden Central Engine'
     year: '2023'
   rwdaufcAAAAJ:WF5omc3nYNoC:
-    citations: 20
+    citations: 21
     title: 'GRANDLIB: A simulation pipeline for the Giant Radio Array for Neutrino Detection (GRAND)'
     year: '2025'
   rwdaufcAAAAJ:Y0pCki6q_DkC:
