@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-04'
 papers:
   rwdaufcAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -38,7 +38,7 @@ papers:
     title: 'GRANDLIB: A simulation pipeline for the Giant Radio Array for Neutrino Detection (GRAND)'
     year: '2025'
   rwdaufcAAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 6
     title: Reconstruction of highly inclined extensive air showers in GRAND
     year: '2024'
   rwdaufcAAAAJ:YsMSGLbcyi4C:
