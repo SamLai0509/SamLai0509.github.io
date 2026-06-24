@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-24'
 papers:
   rwdaufcAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -34,7 +34,7 @@ papers:
     title: 'Supernova 2020wnt: An Atypical Superluminous Supernova with a Hidden Central Engine'
     year: '2023'
   rwdaufcAAAAJ:WF5omc3nYNoC:
-    citations: 21
+    citations: 22
     title: 'GRANDLIB: A simulation pipeline for the Giant Radio Array for Neutrino Detection (GRAND)'
     year: '2025'
   rwdaufcAAAAJ:Y0pCki6q_DkC:
@@ -46,7 +46,7 @@ papers:
     title: "The Giant Radio Array for Neutrino Detection (GRAND) Collaboration--Contributions to the 10th International Workshop on Acoustic and Radio EeV Neutrino Detection Activities \u2026"
     year: '2024'
   rwdaufcAAAAJ:_FxGoFyzp5QC:
-    citations: 30
+    citations: 32
     title: 'SN 2022ann: a Type Icn supernova from a dwarf galaxy that reveals helium in its circumstellar environment'
     year: '2023'
   rwdaufcAAAAJ:eQOLeE2rZwMC:
@@ -62,6 +62,6 @@ papers:
     title: 'VizieR Online Data Catalog: LCs and spectra of SNe 2021gno & 2021inl (Jacobson-Galan+, 2022)'
     year: '2025'
   rwdaufcAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: 'Blast: a Web Application for Characterizing the Host Galaxies of Astrophysical Transients'
     year: '2024'
