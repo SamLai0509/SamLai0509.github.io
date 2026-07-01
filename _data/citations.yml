@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-01'
 papers:
   rwdaufcAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -22,15 +22,15 @@ papers:
     title: Deep-Learning Denoising of Radio Observations for Ultra-High-Energy Cosmic-Ray Detection
     year: '2026'
   rwdaufcAAAAJ:Se3iqnhoufwC:
-    citations: 5
+    citations: 6
     title: Denoising radio pulses from air showers using machine-learning methods
     year: '2025'
   rwdaufcAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: The Giant Radio Array for Neutrino Detection (GRAND) Collaboration--Contributions to the 39th International Cosmic Ray Conference (ICRC 2025)
     year: '2025'
   rwdaufcAAAAJ:W7OEmFMy1HYC:
-    citations: 21
+    citations: 22
     title: 'Supernova 2020wnt: An Atypical Superluminous Supernova with a Hidden Central Engine'
     year: '2023'
   rwdaufcAAAAJ:WF5omc3nYNoC:
@@ -54,7 +54,7 @@ papers:
     title: "The Giant Radio Array for Neutrino Detection (GRAND) Collaboration--Contributions to the 10th International Workshop on Acoustic and Radio EeV Neutrino Detection Activities \u2026"
     year: '2024'
   rwdaufcAAAAJ:hqOjcs7Dif8C:
-    citations: 2
+    citations: 3
     title: Reconstruction of cosmic-ray properties with uncertainty estimation using graph neural networks in GRAND
     year: '2025'
   rwdaufcAAAAJ:roLk4NBRz8UC:
