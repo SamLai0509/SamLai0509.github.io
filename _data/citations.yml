@@ -1,20 +1,24 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-08-05'
 papers:
   rwdaufcAAAAJ:0EnyYjriUFMC:
     citations: 2
     title: The New Status Qvo? SN 2021qvo Is Another 2003fg-like Type Ia Supernova with a Rising Light-curve Bump
     year: '2026'
+  rwdaufcAAAAJ:3fE2CSJIrl8C:
+    citations: 9
+    title: Development of an autonomous detection-unit self-trigger for GRAND
+    year: '2024'
   rwdaufcAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: The New Status Qvo? SN 2021qvo is Another 2003fg-like Type Ia Supernova with a Rising Light-Curve Bump
     year: '2025'
   rwdaufcAAAAJ:8k81kl-MbHgC:
-    citations: 1
-    title: 'Towards the Giant Radio Array for Neutrino Detection (GRAND): the GRANDProto300 and GRAND@ Auger prototypes'
-    year: '2025'
+    citations: 2
+    title: 'Towards the giant radio array for neutrino detection (GRAND): The grandproto300 and grand@ Auger prototypes'
+    year: '2026'
   rwdaufcAAAAJ:LkGwnXOMwfcC:
-    citations: 49
+    citations: 52
     title: The Circumstellar Environments of Double-peaked, Calcium-strong Transients 2021gno and 2021inl
     year: '2022'
   rwdaufcAAAAJ:MXK_kJrjxJIC:
@@ -30,11 +34,11 @@ papers:
     title: The Giant Radio Array for Neutrino Detection (GRAND) Collaboration--Contributions to the 39th International Cosmic Ray Conference (ICRC 2025)
     year: '2025'
   rwdaufcAAAAJ:W7OEmFMy1HYC:
-    citations: 22
+    citations: 24
     title: 'Supernova 2020wnt: An Atypical Superluminous Supernova with a Hidden Central Engine'
     year: '2023'
   rwdaufcAAAAJ:WF5omc3nYNoC:
-    citations: 22
+    citations: 23
     title: 'GRANDLIB: A simulation pipeline for the Giant Radio Array for Neutrino Detection (GRAND)'
     year: '2025'
   rwdaufcAAAAJ:Y0pCki6q_DkC:
@@ -46,17 +50,17 @@ papers:
     title: "The Giant Radio Array for Neutrino Detection (GRAND) Collaboration--Contributions to the 10th International Workshop on Acoustic and Radio EeV Neutrino Detection Activities \u2026"
     year: '2024'
   rwdaufcAAAAJ:_FxGoFyzp5QC:
-    citations: 32
+    citations: 35
     title: 'SN 2022ann: a Type Icn supernova from a dwarf galaxy that reveals helium in its circumstellar environment'
     year: '2023'
   rwdaufcAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: "The Giant Radio Array for Neutrino Detection (GRAND) Collaboration--Contributions to the 10th International Workshop on Acoustic and Radio EeV Neutrino Detection Activities \u2026"
     year: '2024'
-  rwdaufcAAAAJ:hqOjcs7Dif8C:
-    citations: 3
-    title: Reconstruction of cosmic-ray properties with uncertainty estimation using graph neural networks in GRAND
-    year: '2025'
+  rwdaufcAAAAJ:kNdYIx-mwKoC:
+    citations: 8
+    title: 'GRAND: status and perspectives'
+    year: '2024'
   rwdaufcAAAAJ:roLk4NBRz8UC:
     citations: 0
     title: 'VizieR Online Data Catalog: LCs and spectra of SNe 2021gno & 2021inl (Jacobson-Galan+, 2022)'
